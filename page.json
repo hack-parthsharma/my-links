@@ -1,27 +1,31 @@
 {
   "name": "Parth Sharma",
   "description": "Cybersecurity Practitioner, Penetration Tester, Bug Bounty Hunter and Open Source Enthusiast",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "image_url": "https://pbs.twimg.com/profile_images/1612014286393724931/CNKex6AJ_400x400.jpg",
   "links": [
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3CCjbJk",
+      "url": "https://twitter.com/CrypticXParth",
       "icon": "twitter"
     },
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/parthsharmajii/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/hack-parthsharma",
       "icon": "github"
     },
     {
       "title": "GitLab",
-      "url": "http://bit.ly/3Cejhqr",
+      "url": "https://gitlab.com/hack-parthsharma",
       "icon": "gitlab"
-    }
+    },
+    {
+      "title": "Telegram",
+      "url": "@robleisrajkumar",
+      "icon": "telegram"
   ]
 }
